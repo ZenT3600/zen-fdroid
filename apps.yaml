@@ -1,20 +1,13 @@
-notality:
-  git: https://github.com/xarantolus/notality
-  name: "Notality"
+mihon:
+  git: https://github.com/mihonapp/mihon
+  name: "Mihon"
   description: |
-    Notality is a very simple note taking app. I mostly built it to learn how Flutter works, but it's functional and you can use it.
-
-    <b>Features</b>
-
-    - Create, edit, delete and reorder notes
-    - Automatic dark/light mode depending on the system-wide setting
-    - Import/Export your notes to save them externally
-    - Localization for English and German
+    Free and open source manga reader for Android
 
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories: 
-    - Writing
+    - Reading
 
 
 rockit:
